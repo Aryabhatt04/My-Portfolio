@@ -20,4 +20,4 @@ You can check out the live demo of my portfolio here:
 - **HTML**: For the basic structure of the website.
 - **CSS**: For styling the website and making it responsive.
 - **JavaScript**: For interactivity and custom features.
-- **GitHub Pages**: For hosting the website (if you're using GitHub Pages to host it).
+- **GitHub Pages**: For hosting the website.
